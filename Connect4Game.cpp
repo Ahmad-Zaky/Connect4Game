@@ -3,8 +3,8 @@
 // we buil up 4 main functions for the game 
 
 // our Game contains 2 options play with Pc or with 2nd Player
-// here we start the Game play with 2nd player
+// we start here the Game play with 2nd player
 
-// here we type the Game play with Pc
+// we type here the Game play with Pc
 
 // now I add more lines to for our commit locally
