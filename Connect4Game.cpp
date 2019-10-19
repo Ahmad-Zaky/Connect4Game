@@ -13,5 +13,5 @@
 
 // our fast example is auwsome
 
-// now we add more lines for the sake of the course
+// now we add more lines
 
