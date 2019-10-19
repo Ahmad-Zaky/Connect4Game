@@ -12,3 +12,6 @@
 // adding a new line for our new branch called " new_feature "
 
 // our fast example is auwsome
+
+// now we add more lines for the sake of the course
+
